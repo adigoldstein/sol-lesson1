@@ -1,0 +1,101 @@
+﻿id,customer_name,date,channel,message,category
+1,Rachel Brown,2026-07-25,WhatsApp,"Hey team, our accountant needs invoices in Hebrew. Is that possible?",Feature request
+2,Gal Johnson,2026-07-26,Phone,Order #42455 still hasn't been processed. It's been 8 days. :(,Support/ticket
+3,Emma Halevi,2026-07-27,Email,Urgent: I accidentally deleted a client record. Is there any way to restore it?,Support/ticket
+4,Liat Johnson,2026-07-28,Phone,"Hey team, would love custom fields - right now I copy everything by hand. Waiting for your reply.",Feature request
+5,Michael Johnson,2026-07-28,Email,Good morning. Printing from the invoicing tool cuts off the last column of every page. Waiting for your reply.,Support/ticket
+6,Tamar Avraham,2026-07-29,Facebook,"Hello, hello?? I've been waiting on hold for 40 minutes. Thanks.",Support/ticket
+7,Noah Brown,2026-07-29,Email,"Hey team, annual plan vs monthly - how much do we actually save on Pro? Thanks in advance!",Pricing issue
+8,Shira Levi,2026-07-29,Facebook,"Hello, is there any way to get bulk delete? We'd even pay extra for it. Thanks in advance!",Feature request
+9,Rachel Peretz,2026-07-30,Live chat,"Hello, is there a student or startup price? Pro is out of our budget. Waiting for your reply.",Pricing issue
+10,Liam Friedman,2026-07-31,Live chat,The numbers in the mobile app don't match what I see in my bank account. Regards.,Support/ticket
+11,Hila Rosen,2026-07-31,Phone,Quick question - we'd like to add 18 more users. Is there volume pricing? Thanks in advance!,Pricing issue
+12,Tamar Mizrahi,2026-08-02,Phone,How do I cancel my subscription? I can't find the button anywhere.,Support/ticket
+13,Nir Avraham,2026-08-02,WhatsApp,"Hello, how do I give my assistant view-only access without paying for another seat?",Pricing issue
+14,Omer Avraham,2026-08-02,Facebook,"Hello, we'd like to add 229 more users. Is there volume pricing? Waiting for your reply.",Pricing issue
+15,Rachel Shapiro,2026-08-03,Facebook,Our accountant needs invoices in Hebrew. Is that possible?,Feature request
+16,Michael Johnson,2026-08-03,Facebook,"Please call me back regarding ticket #1233, nobody has answered for 3 days.",Support/ticket
+17,Shira Johnson,2026-08-03,Phone,The numbers in the web dashboard don't match what I see in my bank account. Thanks.,Support/ticket
+18,Ron Johnson,2026-08-04,Facebook,Notifications from the mobile app arrive twice only on weekends. Very annoying. Thanks in advance!,Support/ticket
+19,Noa Cohen,2026-08-05,Email,"Hi, could you add custom fields? Our whole team keeps asking for it.",Feature request
+20,Itai Smith,2026-08-05,Phone,Urgent: We're a nonprofit with 36 users. Do you offer a discount on the Starter plan? Thanks in advance!,Pricing issue
+21,Tamar Shapiro,2026-08-06,Facebook,Urgent: Our accountant needs invoices in Hebrew. Is that possible? Regards.,Feature request
+22,Nir Garcia,2026-08-06,Twitter/X,The mobile app crashes on my an iPad for three days now. Please fix it ASAP!!,Support/ticket
+23,Omer Rosen,2026-08-07,Twitter/X,"Hello, your competitor offers scheduled reports for free. Why should we stay with you?",Feature request
+24,Michael Dahan,2026-08-08,Facebook,The numbers in the web dashboard don't match what I see in my bank account. Regards.,Support/ticket
+25,Liam Avraham,2026-08-09,Live chat,Good morning. Is my data stored in Israel or abroad? Our legal team is asking. :(,Support/ticket
+26,Olivia Azoulay,2026-08-16,Email,"Hey team, your trial ended but I never got a chance to try Hebrew right-to-left support. Can you extend it? Thanks in advance!",Pricing issue
+27,Rachel Garcia,2026-08-16,WhatsApp,Quick question - notifications from the team calendar arrive twice for three days now. Very annoying.,Support/ticket
+28,Itai Johnson,2026-08-17,Facebook,I was promised a 10% discount by your sales rep but it's not on my invoice.,Pricing issue
+29,Gal Azoulay,2026-08-17,Live chat,"Hello, how do I give my assistant view-only access without paying for another seat? Waiting for your reply.",Pricing issue
+30,Emma Avraham,2026-08-17,Live chat,Notifications from the reports module arrive twice every Monday. Very annoying. Thanks.,Support/ticket
+31,Shira Garcia,2026-08-18,Email,"Hey team, you charged my card twice for the Enterprise plan. I want a refund of 772 ILS. Regards.",Pricing issue
+32,Omer Smith,2026-08-18,Twitter/X,Good morning. Suggestion: let us choose which columns appear in the mobile app.,Feature request
+33,Yael Shapiro,2026-08-19,Live chat,"Hey team, can you add a way to tag customers by city? Would help our sales team a lot. :(",Feature request
+34,Liam Levi,2026-08-19,WhatsApp,Notifications from the customer portal arrive twice since we added new users. Very annoying.,Support/ticket
+35,Avi Levi,2026-08-22,Web form,Urgent: We're a nonprofit with 107 users. Do you offer a discount on the Business plan?,Pricing issue
+36,Eitan Biton,2026-08-23,Web form,"Hey team, can we get a demo of the Enterprise plan for our managers next week? :(",Pricing issue
+37,Yael Goldberg,2026-08-24,Email,Your competitor offers Hebrew right-to-left support for free. Why should we stay with you?,Feature request
+38,Nir Johnson,2026-08-24,Live chat,I was promised a 15% discount by your sales rep but it's not on my invoice.,Pricing issue
+39,Ron Goldberg,2026-08-24,Live chat,"Hello, I accidentally deleted a client record. Is there any way to restore it?",Support/ticket
+40,Omer Peretz,2026-08-25,Web form,"Hey team, after the update I can't see last year's data in the customer portal. Thanks.",Support/ticket
+41,Michael Garcia,2026-08-25,Email,Can we get a demo of the Enterprise plan for our managers next week?,Pricing issue
+42,Daniel Dahan,2026-08-25,WhatsApp,"Hello, we'd like to add 172 more users. Is there volume pricing?",Pricing issue
+43,Eitan Friedman,2026-08-26,Live chat,Urgent: The app logs me out every few minutes on my an old Windows 10 laptop. Regards.,Support/ticket
+44,Omer Levi,2026-08-30,Twitter/X,Our accountant needs invoices in Hebrew. Is that possible? Waiting for your reply.,Feature request
+45,Nir Garcia,2026-09-01,Live chat,"Hey team, how do I cancel my subscription? I can't find the button anywhere.",Support/ticket
+46,Noah Rosen,2026-09-01,WhatsApp,Quick question - we'd like to add 4 more users. Is there volume pricing?,Pricing issue
+47,Michal Levi,2026-09-01,Live chat,Good morning. I accidentally deleted a client record. Is there any way to restore it? Thanks.,Support/ticket
+48,Daniel Azoulay,2026-09-03,Phone,The invoicing tool is so slow only on weekends that my employees gave up using it.,Support/ticket
+49,Hila Cohen,2026-09-03,Twitter/X,How do I give my assistant view-only access without paying for another seat?,Pricing issue
+50,Eitan Shapiro,2026-09-04,Facebook,Can I move from Business to Pro in the middle of the month? How is it billed? Regards.,Pricing issue
+51,Daniel Cohen,2026-09-05,Twitter/X,"Hello, we're a nonprofit with 80 users. Do you offer a discount on the Enterprise plan? :(",Pricing issue
+52,Daniel Halevi,2026-09-07,Facebook,"Please call me back regarding ticket #4906, nobody has answered for 3 days.",Support/ticket
+53,Hila Garcia,2026-09-07,Twitter/X,I was promised a 25% discount by your sales rep but it's not on my invoice. :(,Pricing issue
+54,Omer Katz,2026-09-11,Phone,Annual plan vs monthly - how much do we actually save on Business? Waiting for your reply.,Pricing issue
+55,Eitan Goldberg,2026-09-11,Web form,Good morning. I can't log in. The reset password email never arrives (checked spam too). Waiting for your reply.,Support/ticket
+56,Nir Biton,2026-09-13,WhatsApp,Good morning. Why did my bill go up to 208 ILS this month? Nobody told us about a price change. Thanks.,Pricing issue
+57,Tamar Goldberg,2026-09-14,Web form,Can I move from Starter to Business in the middle of the month? How is it billed? Thanks.,Pricing issue
+58,Daniel Katz,2026-09-14,Facebook,"Hey team, notifications from the team calendar arrive twice for three days now. Very annoying. Waiting for your reply.",Support/ticket
+59,Shira Ben-David,2026-09-14,Phone,Is there a student or startup price? Starter is out of our budget.,Pricing issue
+60,Olivia Shapiro,2026-09-14,Phone,"Hey team, I was promised a 15% discount by your sales rep but it's not on my invoice. Regards.",Pricing issue
+61,Yossi Goldberg,2026-09-15,Live chat,Good morning. Order #86027 still hasn't been processed. It's been 6 days. Waiting for your reply.,Support/ticket
+62,Hila Azoulay,2026-09-16,Web form,Is there any way to get export to Excel? We'd even pay extra for it.,Feature request
+63,Yossi Shapiro,2026-09-17,Web form,Good morning. We'd like to add 131 more users. Is there volume pricing?,Pricing issue
+64,Ron Cohen,2026-09-17,Live chat,"Hey team, please call me back regarding ticket #1192, nobody has answered for 13 days.",Support/ticket
+65,Avi Peretz,2026-09-19,Web form,Quick question - why did my bill go up to 353 ILS this month? Nobody told us about a price change. :(,Pricing issue
+66,Sarah Friedman,2026-09-20,Twitter/X,Urgent: Can I move from Pro to Enterprise in the middle of the month? How is it billed? Thanks.,Pricing issue
+67,Emma Goldberg,2026-09-20,WhatsApp,Our accountant needs invoices in Hebrew. Is that possible? Thanks in advance!,Feature request
+68,Rachel Johnson,2026-09-20,WhatsApp,"Hey team, I accidentally deleted a client record. Is there any way to restore it? Waiting for your reply.",Support/ticket
+69,Sarah Cohen,2026-09-21,Twitter/X,Hello?? I've been waiting on hold for 40 minutes. :(,Support/ticket
+70,Daniel Johnson,2026-09-21,Twitter/X,"Hello, I accidentally deleted a client record. Is there any way to restore it? :(",Support/ticket
+71,Tamar Garcia,2026-09-21,Web form,"Hello, we're a nonprofit with 117 users. Do you offer a discount on the Starter plan?",Pricing issue
+72,Emma Johnson,2026-09-23,Facebook,Quick question - can I move from Starter to Enterprise in the middle of the month? How is it billed? :(,Pricing issue
+73,Noah Dahan,2026-09-23,Facebook,"Hello, we'd like to add 192 more users. Is there volume pricing? Regards.",Pricing issue
+74,Sarah Miller,2026-09-24,Twitter/X,Urgent: Your competitor offers offline mode for free. Why should we stay with you?,Feature request
+75,Ron Rosen,2026-09-24,Twitter/X,Good morning. Notifications from the invoicing tool arrive twice only on weekends. Very annoying.,Support/ticket
+76,Sarah Brown,2026-09-25,Phone,Quick question - we'd like to add 248 more users. Is there volume pricing?,Pricing issue
+77,Daniel Shapiro,2026-09-26,Web form,Quick question - why did my bill go up to 857 ILS this month? Nobody told us about a price change.,Pricing issue
+78,Michael Brown,2026-09-26,Facebook,"Hey team, I accidentally deleted a client record. Is there any way to restore it?",Support/ticket
+79,Noa Cohen,2026-09-26,Email,Quick question - is my data stored in Israel or abroad? Our legal team is asking.,Support/ticket
+80,Gal Biton,2026-09-26,Web form,"Hello, why did my bill go up to 747 ILS this month? Nobody told us about a price change. :(",Pricing issue
+81,Avi Goldberg,2026-09-27,Web form,Good morning. Got an 'Error 500' when uploading a file bigger than 100 MB. Waiting for your reply.,Support/ticket
+82,Liat Peretz,2026-10-01,Facebook,"Love the product, but export to Excel is the one thing stopping us from switching fully. Thanks.",Feature request
+83,Gal Rosen,2026-10-01,WhatsApp,"Hello, the numbers in the invoicing tool don't match what I see in my bank account. :(",Support/ticket
+84,Avi Azoulay,2026-10-02,Facebook,Quick question - why did my bill go up to 77 ILS this month? Nobody told us about a price change. :(,Pricing issue
+85,Noah Cohen,2026-10-02,Twitter/X,The numbers in the mobile app don't match what I see in my bank account.,Support/ticket
+86,Maya Avraham,2026-10-03,Live chat,"Hello, is there a student or startup price? Enterprise is out of our budget. Thanks in advance!",Pricing issue
+87,Daniel Dahan,2026-10-04,Twitter/X,Quick question - I accidentally deleted a client record. Is there any way to restore it? Thanks.,Support/ticket
+88,Ron Garcia,2026-10-04,Email,Would love Google Calendar sync - right now I copy everything by hand. Thanks.,Feature request
+89,Michal Ben-David,2026-10-05,WhatsApp,Urgent: We're a nonprofit with 64 users. Do you offer a discount on the Pro plan? Waiting for your reply.,Pricing issue
+90,Shira Garcia,2026-10-07,Live chat,"Good morning. Hi, could you add Google Calendar sync? Our whole team keeps asking for it.",Feature request
+91,Liat Azoulay,2026-10-09,Facebook,"Hey team, we'd like to add 76 more users. Is there volume pricing?",Pricing issue
+92,Liam Ben-David,2026-10-10,WhatsApp,Annual plan vs monthly - how much do we actually save on Pro?,Pricing issue
+93,Dana Friedman,2026-10-10,Facebook,Can you add a way to tag customers by city? Would help our sales team a lot. Thanks in advance!,Feature request
+94,Olivia Halevi,2026-10-11,Facebook,Just wanted to say thank you - your support rep solved my issue in 5 minutes. Waiting for your reply.,Support/ticket
+95,Sarah Levi,2026-10-12,Twitter/X,Urgent: Annual plan vs monthly - how much do we actually save on Enterprise?,Pricing issue
+96,Michal Mizrahi,2026-10-17,Web form,Urgent: Suggestion: let us choose which columns appear in the web dashboard.,Feature request
+97,Daniel Cohen,2026-10-17,Phone,"Hello, hi, could you add Hebrew right-to-left support? Our whole team keeps asking for it. Waiting for your reply.",Feature request
+98,Ron Peretz,2026-10-18,Live chat,Printing from the inventory screen cuts off the last column of every page. Thanks.,Support/ticket
+99,Dana Levi,2026-10-21,Web form,Printing from the inventory screen cuts off the last column of every page. :(,Support/ticket
+100,Sarah Levi,2026-10-21,Email,Urgent: Hello?? I've been waiting on hold for 40 minutes. Thanks in advance!,Support/ticket

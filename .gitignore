@@ -1,0 +1,3 @@
+# Class recording and course PDFs stay out of git
+*.mp4
+*.pdf
